@@ -1,0 +1,186 @@
+.icon1{
+    background-color: white;
+    margin: 10px;
+    width: 600px;
+   
+    border-radius: 20px;
+padding: 10px;
+overflow: hidden;
+}
+
+.icon3{
+    
+    margin: 10px;
+    width: 800px;
+   
+    border-radius: 20px;
+padding: 10px;
+overflow: hidden;
+}
+
+.icon4{
+
+    margin: 10px;
+    width: 800px;
+   
+    border-radius: 20px;
+   border-color: white;
+overflow: hidden;
+}
+
+.icon2{
+    background-color: white;
+    margin: 10px;
+    width: 600px;
+   
+    border-radius: 5px;
+padding: 10px;
+overflow: hidden;
+}
+
+.text1{
+    text-align: right;
+    position: relative;
+    -webkit-animation-name: example;  /* Safari 4.0 - 8.0 */
+    -webkit-animation-duration: 5s;  /* Safari 4.0 - 8.0 */  
+    -webkit-animation-fill-mode: forwards; /* Safari 4.0 - 8.0 */
+    animation-name: example;
+    animation-duration: 5s;  
+    animation-fill-mode: forwards;
+}
+
+@keyframes example {
+    0% { left: -180px;right: 0px; }
+    25% {left: -50px;top: 0px; }
+    50% {left: 0px;top: 120px; }
+    75% {left: 0px;top: 200px; }
+    100% {left: 0px;top: 350px; }
+  }
+  
+.text2{
+    text-align: right;
+    position: relative;
+    -webkit-animation-name: example2;  /* Safari 4.0 - 8.0 */
+    -webkit-animation-duration: 4s;  /* Safari 4.0 - 8.0 */  
+    -webkit-animation-fill-mode: forwards; /* Safari 4.0 - 8.0 */
+    animation-name: example2;
+    animation-duration: 4s;  
+    animation-fill-mode: forwards;
+}
+
+@keyframes example2 {
+    from {right: 1200px;}
+    to {left: 0px; }
+  }
+
+  .text3{
+    text-align: right;
+    position: relative;
+    -webkit-animation-name: example3;  /* Safari 4.0 - 8.0 */
+    -webkit-animation-duration: 6s;  /* Safari 4.0 - 8.0 */  
+    -webkit-animation-fill-mode: forwards; /* Safari 4.0 - 8.0 */
+    animation-name: example3;
+    animation-duration: 6s;  
+    animation-fill-mode: forwards;
+}
+
+@keyframes example3 {
+    from {right: 1200px;}
+    to {left: 0px; }
+  }
+
+  .text4{
+    text-align: right;
+    position: relative;
+    -webkit-animation-name: example4;  /* Safari 4.0 - 8.0 */
+    -webkit-animation-duration: 11s;  /* Safari 4.0 - 8.0 */  
+    -webkit-animation-fill-mode: forwards; /* Safari 4.0 - 8.0 */
+    animation-name: example4;
+    animation-duration: 11s;  
+    animation-fill-mode: forwards;
+}
+
+@keyframes example4 {
+    from {right: 1200px;}
+    to {left: 0px; }
+  }
+
+
+  .text5{
+    text-align: right;
+    position: relative;
+    -webkit-animation-name: example5;  /* Safari 4.0 - 8.0 */
+    -webkit-animation-duration: 15s;  /* Safari 4.0 - 8.0 */  
+    -webkit-animation-fill-mode: forwards; /* Safari 4.0 - 8.0 */
+    animation-name: example5;
+    animation-duration: 15s;  
+    animation-fill-mode: forwards;
+}
+
+@keyframes example5 {
+    from {right: 1200px;}
+    to {left: 0px; }
+  }
+
+  .button1-anim{
+    text-align: right;
+    position: relative;
+    -webkit-animation-name: example6;  /* Safari 4.0 - 8.0 */
+    -webkit-animation-duration: 16s;  /* Safari 4.0 - 8.0 */  
+    -webkit-animation-fill-mode: forwards; /* Safari 4.0 - 8.0 */
+    animation-name: example6;
+    animation-duration: 16s;  
+    animation-fill-mode: forwards;
+  }
+
+  @keyframes example6 {
+    from {right: 900px;}
+    to {left: 0px; }
+  }
+
+  .button2-anim{
+    text-align: right;
+    position: relative;
+    -webkit-animation-name: example7;  /* Safari 4.0 - 8.0 */
+    -webkit-animation-duration: 17s;  /* Safari 4.0 - 8.0 */  
+    -webkit-animation-fill-mode: forwards; /* Safari 4.0 - 8.0 */
+    animation-name: example7;
+    animation-duration: 17s;  
+    animation-fill-mode: forwards;
+  }
+
+  @keyframes example7 {
+    from {left: 900px;}
+    to {right: 0px; }
+  }
+
+  .footer-anim{
+    text-align: right;
+    position: relative;
+    -webkit-animation-name: example8;  /* Safari 4.0 - 8.0 */
+    -webkit-animation-duration: 5s;  /* Safari 4.0 - 8.0 */  
+    -webkit-animation-fill-mode: forwards; /* Safari 4.0 - 8.0 */
+    animation-name: example8;
+    animation-duration: 5s;  
+    animation-fill-mode: forwards;
+  }
+
+  @keyframes example8 {
+    from {top: 90px;}
+    to {top: 0px; }
+  }
+ 
+.butt{
+
+    border-color: white;
+    border: 2px solid white;
+    padding: 10px;
+    border-radius: 15px;
+    border: none;
+    color: black;
+    font-size: 22px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+   }
